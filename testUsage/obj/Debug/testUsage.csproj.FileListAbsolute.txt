@@ -1,0 +1,4 @@
+C:\Source_app\AHK.DataAccess\testUsage\bin\Debug\testUsage.dll
+C:\Source_app\AHK.DataAccess\testUsage\bin\Debug\testUsage.pdb
+C:\Source_app\AHK.DataAccess\testUsage\obj\Debug\testUsage.dll
+C:\Source_app\AHK.DataAccess\testUsage\obj\Debug\testUsage.pdb

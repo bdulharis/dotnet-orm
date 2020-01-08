@@ -1,0 +1,4 @@
+C:\Source_app\AHK.DataAccess\PostgreSQLDataAccess\bin\Debug\PostgreSQLDataAccess.dll
+C:\Source_app\AHK.DataAccess\PostgreSQLDataAccess\bin\Debug\PostgreSQLDataAccess.pdb
+C:\Source_app\AHK.DataAccess\PostgreSQLDataAccess\obj\Debug\PostgreSQLDataAccess.dll
+C:\Source_app\AHK.DataAccess\PostgreSQLDataAccess\obj\Debug\PostgreSQLDataAccess.pdb

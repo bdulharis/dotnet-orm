@@ -1,0 +1,10 @@
+C:\Source_app\AHK.DataAccess\testDAL\obj\x86\Debug\testDAL.Form1.resources
+C:\Source_app\AHK.DataAccess\testDAL\obj\x86\Debug\testDAL.Properties.Resources.resources
+C:\Source_app\AHK.DataAccess\testDAL\bin\Debug\testDAL.exe
+C:\Source_app\AHK.DataAccess\testDAL\bin\Debug\testDAL.pdb
+C:\Source_app\AHK.DataAccess\testDAL\bin\Debug\OracleDataAccess.dll
+C:\Source_app\AHK.DataAccess\testDAL\bin\Debug\OracleDataAccess.pdb
+C:\Source_app\AHK.DataAccess\testDAL\obj\x86\Debug\testDAL.exe
+C:\Source_app\AHK.DataAccess\testDAL\obj\x86\Debug\testDAL.pdb
+C:\Source_app\AHK.DataAccess\testDAL\obj\x86\Debug\testDAL.csprojResolveAssemblyReference.cache
+C:\Source_app\AHK.DataAccess\testDAL\obj\x86\Debug\testDAL.csproj.GenerateResource.Cache

@@ -1,0 +1,9 @@
+C:\Source_app\AHK.DataAccess\testODA\bin\Release\testODA.exe
+C:\Source_app\AHK.DataAccess\testODA\bin\Release\Oracle.DataAccess.dll
+C:\Source_app\AHK.DataAccess\testODA\bin\Release\OracleDataAccess.dll
+C:\Source_app\AHK.DataAccess\testODA\bin\Release\OracleDataAccess.pdb
+C:\Source_app\AHK.DataAccess\testODA\obj\Release\testODA.csprojResolveAssemblyReference.cache
+C:\Source_app\AHK.DataAccess\testODA\obj\Release\testODA.Form1.resources
+C:\Source_app\AHK.DataAccess\testODA\obj\Release\testODA.Properties.Resources.resources
+C:\Source_app\AHK.DataAccess\testODA\obj\Release\testODA.csproj.GenerateResource.Cache
+C:\Source_app\AHK.DataAccess\testODA\obj\Release\testODA.exe

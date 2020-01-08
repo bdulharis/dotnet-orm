@@ -1,0 +1,10 @@
+c:\users\hp\documents\visual studio 2010\Projects\AHK.DataAccess\OracleDataAccess\bin\Debug\OracleDataAccess.dll
+c:\users\hp\documents\visual studio 2010\Projects\AHK.DataAccess\OracleDataAccess\bin\Debug\OracleDataAccess.pdb
+c:\users\hp\documents\visual studio 2010\Projects\AHK.DataAccess\OracleDataAccess\bin\Debug\Oracle.DataAccess.dll
+c:\users\hp\documents\visual studio 2010\Projects\AHK.DataAccess\OracleDataAccess\obj\Debug\ResolveAssemblyReference.cache
+c:\users\hp\documents\visual studio 2010\Projects\AHK.DataAccess\OracleDataAccess\obj\Debug\OracleDataAccess.dll
+c:\users\hp\documents\visual studio 2010\Projects\AHK.DataAccess\OracleDataAccess\obj\Debug\OracleDataAccess.pdb
+C:\Source_app\AHK.DataAccess\OracleDataAccess\bin\Debug\OracleDataAccess.dll
+C:\Source_app\AHK.DataAccess\OracleDataAccess\bin\Debug\OracleDataAccess.pdb
+C:\Source_app\AHK.DataAccess\OracleDataAccess\obj\Debug\OracleDataAccess.dll
+C:\Source_app\AHK.DataAccess\OracleDataAccess\obj\Debug\OracleDataAccess.pdb

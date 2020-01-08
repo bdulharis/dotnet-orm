@@ -1,0 +1,4 @@
+C:\Source_app\AHK.DataAccess\OracleDataAccess\bin\x86\Release\OracleDataAccess.dll
+C:\Source_app\AHK.DataAccess\OracleDataAccess\obj\x86\Release\OracleDataAccess.dll
+C:\Source_app\AHK.DataAccess\OracleDataAccess\bin\x86\Release\OracleDataAccess.pdb
+C:\Source_app\AHK.DataAccess\OracleDataAccess\obj\x86\Release\OracleDataAccess.pdb

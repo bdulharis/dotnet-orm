@@ -1,0 +1,23 @@
+c:\users\hp\documents\visual studio 2010\Projects\AHK.DataAccess\testODA\bin\Debug\testODA.exe
+c:\users\hp\documents\visual studio 2010\Projects\AHK.DataAccess\testODA\bin\Debug\testODA.pdb
+c:\users\hp\documents\visual studio 2010\Projects\AHK.DataAccess\testODA\bin\Debug\OracleDataAccess.dll
+c:\users\hp\documents\visual studio 2010\Projects\AHK.DataAccess\testODA\bin\Debug\OracleDataAccess.pdb
+c:\users\hp\documents\visual studio 2010\Projects\AHK.DataAccess\testODA\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\hp\documents\visual studio 2010\Projects\AHK.DataAccess\testODA\obj\x86\Debug\testODA.Form1.resources
+c:\users\hp\documents\visual studio 2010\Projects\AHK.DataAccess\testODA\obj\x86\Debug\testODA.Properties.Resources.resources
+c:\users\hp\documents\visual studio 2010\Projects\AHK.DataAccess\testODA\obj\x86\Debug\ResGen.read.1.tlog
+c:\users\hp\documents\visual studio 2010\Projects\AHK.DataAccess\testODA\obj\x86\Debug\ResGen.write.1.tlog
+c:\users\hp\documents\visual studio 2010\Projects\AHK.DataAccess\testODA\obj\x86\Debug\testODA.exe
+c:\users\hp\documents\visual studio 2010\Projects\AHK.DataAccess\testODA\obj\x86\Debug\testODA.pdb
+C:\Source_app\AHK.DataAccess\testODA\bin\Debug\testODA.exe.config
+C:\Source_app\AHK.DataAccess\testODA\bin\Debug\testODA.exe
+C:\Source_app\AHK.DataAccess\testODA\bin\Debug\testODA.pdb
+C:\Source_app\AHK.DataAccess\testODA\bin\Debug\OracleDataAccess.dll
+C:\Source_app\AHK.DataAccess\testODA\bin\Debug\OracleDataAccess.pdb
+C:\Source_app\AHK.DataAccess\testODA\obj\x86\Debug\testODA.Form1.resources
+C:\Source_app\AHK.DataAccess\testODA\obj\x86\Debug\testODA.Properties.Resources.resources
+C:\Source_app\AHK.DataAccess\testODA\obj\x86\Debug\testODA.exe
+C:\Source_app\AHK.DataAccess\testODA\obj\x86\Debug\testODA.pdb
+C:\Source_app\AHK.DataAccess\testODA\obj\x86\Debug\testODA.csproj.GenerateResource.Cache
+C:\Source_app\AHK.DataAccess\testODA\bin\Debug\Oracle.DataAccess.dll
+C:\Source_app\AHK.DataAccess\testODA\obj\x86\Debug\testODA.csprojResolveAssemblyReference.cache

@@ -1,0 +1,4 @@
+C:\Source_app\AHK.DataAccess\IAHKDataAccess\bin\Release\IDataAccess.dll
+C:\Source_app\AHK.DataAccess\IAHKDataAccess\bin\Release\IDataAccess.pdb
+C:\Source_app\AHK.DataAccess\IAHKDataAccess\obj\Release\IDataAccess.dll
+C:\Source_app\AHK.DataAccess\IAHKDataAccess\obj\Release\IDataAccess.pdb

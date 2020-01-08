@@ -1,0 +1,5 @@
+C:\Source_app\AHK.DataAccess\OracleDataAccess\bin\Release\OracleDataAccess.dll
+C:\Source_app\AHK.DataAccess\OracleDataAccess\bin\Release\OracleDataAccess.pdb
+C:\Source_app\AHK.DataAccess\OracleDataAccess\obj\Release\OracleDataAccess.dll
+C:\Source_app\AHK.DataAccess\OracleDataAccess\obj\Release\OracleDataAccess.pdb
+C:\Source_app\AHK.DataAccess\OracleDataAccess\obj\Release\OracleDataAccess.csprojResolveAssemblyReference.cache

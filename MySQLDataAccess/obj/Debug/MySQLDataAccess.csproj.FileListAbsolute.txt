@@ -1,0 +1,4 @@
+C:\Source_app\AHK.DataAccess\MySQLDataAccess\bin\Debug\MySQLDataAccess.dll
+C:\Source_app\AHK.DataAccess\MySQLDataAccess\bin\Debug\MySQLDataAccess.pdb
+C:\Source_app\AHK.DataAccess\MySQLDataAccess\obj\Debug\MySQLDataAccess.dll
+C:\Source_app\AHK.DataAccess\MySQLDataAccess\obj\Debug\MySQLDataAccess.pdb
